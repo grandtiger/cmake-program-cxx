@@ -1,9 +1,9 @@
-# cmake-program-c
+# cmake-program-cxx
 _____________________________________________________________________________________________________
 Description.
 -------------------------------------------------------------------------------------------
-Simpe CMake project template for C program. seems like a good candidate for adding on additions the you may find useful 
-for basic C programs
+Simpe CMake project template for C++ program. seems like a good candidate for adding on additions the you may find useful 
+for basic C++ programs
 
 Requirements.
 -------------------------------------------------------------------------------------------
