@@ -1,10 +1,9 @@
-# cmake-project-c++
+# cmake-program-c++
 _____________________________________________________________________________________________________
 # CONTRIBUTING
 -------------------------------------------------------------------------------------------
 Any contributions (code, documentation, ...) are welcome. This project uses. 
 * [CMake](https://cmake.org/) as the main build system file generator.
-* [Catch2 framework](https://github.com/catchorg/Catch2.git) as the main unit testing framework.
 you may need to check their documentation 
 
 # New Features
