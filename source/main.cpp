@@ -23,12 +23,15 @@
  
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
-#include "project.hpp"
+#include <iostream>
+#include <exception>
+#include <cstdint>
 
+using namespace std;
 
 int main(int argc, const char ** argv){
-    std::cout<<("Running CMake project...")<<std::endl;
-    return initMainProgram(&argc,&argv);
+    std::cout<<("Hello, C++")<<std::endl;
+    return 0;
 }//end of function main
 
 
