@@ -15,11 +15,10 @@ cmake_minimum_required(VERSION 3.13.2 FATAL_ERROR)
 # └──────────────────────────────────────────────────────────────────────────────────────┘
 ##########################################################################################
 set(MY_PROJECT_HEADER_FILES
-    "project.hpp"
+    #"foo.hpp"
 )
 
 set(MY_PROJECT_SOURCE_FILES
-    "project.cpp"
     "main.cpp"
 )
 
